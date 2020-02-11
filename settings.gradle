@@ -1,0 +1,2 @@
+include ':app', ':customalertdialoglibrary', ':customdottedlinelibrary', ':etravel'
+rootProject.name='My Application'
